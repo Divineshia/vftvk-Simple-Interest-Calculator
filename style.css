@@ -1,4 +1,10 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {background-color:black;font-family:arial;}
+h1{color:grey;font-family:verdana;text-align:center;}
+.maindiv {
+    text-align: justify;
+    border-radius: 25px;
+    width: 300pixels;
+    padding: 20px;
+    background: white; font-variant:black;
+}
 
